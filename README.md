@@ -20,3 +20,6 @@ then you can report errors with:
 ```javascript
 this.errorReportingInstance.report()
 ```
+
+Then go to  https://console.cloud.google.com/errors to see errors.
+
